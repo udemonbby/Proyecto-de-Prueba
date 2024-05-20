@@ -1,0 +1,14 @@
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\bin\Debug\net8.0\Proyecto - 1347424.exe
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\bin\Debug\net8.0\Proyecto - 1347424.deps.json
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\bin\Debug\net8.0\Proyecto - 1347424.runtimeconfig.json
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\bin\Debug\net8.0\Proyecto - 1347424.dll
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\bin\Debug\net8.0\Proyecto - 1347424.pdb
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\Proyecto - 1347424.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\Proyecto - 1347424.AssemblyInfoInputs.cache
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\Proyecto - 1347424.AssemblyInfo.cs
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\Proyecto - 1347424.csproj.CoreCompileInputs.cache
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\Proyecto - 1347424.dll
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\refint\Proyecto - 1347424.dll
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\Proyecto - 1347424.pdb
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\Proyecto - 1347424.genruntimeconfig.cache
+C:\Users\besal\source\repos\Proyecto - 1347424\Proyecto - 1347424\obj\Debug\net8.0\ref\Proyecto - 1347424.dll
